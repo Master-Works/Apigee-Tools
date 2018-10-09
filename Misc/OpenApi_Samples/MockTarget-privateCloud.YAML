@@ -3,7 +3,7 @@ info:
   description: 'OpenAPI Specification for the Apigee mock target service endpoint.'
   version: 1.0.0
   title: Mock Target API
-host: 192.168.56.103:9001
+host: 192.168.56.103:9001/mock-target-api
 schemes:
   - http
   - https
