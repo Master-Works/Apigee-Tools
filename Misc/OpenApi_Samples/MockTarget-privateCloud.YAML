@@ -3,7 +3,7 @@ info:
   description: 'OpenAPI Specification for the Apigee mock target service endpoint.'
   version: 1.0.0
   title: Mock Target API
-host: apigeeaioserver.master-works.net:9001/mock-target-api
+host: apigeeaioserver.master-works.net:9001/nic
 schemes:
   - http
   - https
